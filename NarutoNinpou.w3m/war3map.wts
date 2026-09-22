@@ -30949,6 +30949,12 @@ STRING 5082
 |cff32cd32Target Type:|r Unit Target|n|cff32cd32Targets Allowed:|r Enemy, Ally|n|cff32cd32Casting Range:|r 200|n|cff32cd32Damage:|r |cff87ceeb3 x Genjutsu|n|cff32cd32Damage Type:|r Chaos|n|cff32cd32Effects:|r Make the target disappear from the map for three seconds.|n|cff32cd32Chakra Cost:|r 150|n|cff32cd32Cooldown:|r 60s|n|cff32cd32Description:|r|nZetsu devours the target, making it disappear from the map for three seconds.
 }
 
+STRING 5083
+// Abilities: A05D (TayuyaOgre01Bash), Tip (Tooltip - Normal)
+{
+Bash - [|cffffcc00Level 4|r]
+}
+
 STRING 5084
 // Abilities: A0N6 (|cff0fcaf7Control Human Puppet|r), Tip (Tooltip - Normal)
 {
@@ -34660,6 +34666,12 @@ STRING 5705
 R
 }
 
+STRING 5706
+// Abilities: A05D (TayuyaOgre01Bash), Tip (Tooltip - Normal)
+{
+Bash - [|cffffcc00Level 5|r]
+}
+
 STRING 5707
 // Abilities: A0GW (|cffad3f45Demon Slash|r), Researchhotkey (Hotkey - Learn)
 {
@@ -34676,6 +34688,12 @@ STRING 5709
 // Abilities: A0GW (|cffad3f45Demon Slash|r), Ubertip (Tooltip - Normal - Extended)
 {
 |cff32cd32Target Type:|r Unit Target|n|cff32cd32Targets Allowed:|r Enemy|n|cff32cd32Casting Range:|r 350|n|cff32cd32Damage:|r |cff87ceebNinjutsu x skill level|r|n|cff32cd32Damage Type:|r Normal|n|cff32cd32Effects:|r Stun the target for 1.5s|n|cff32cd32Chakra Cost:|r |cff87ceeb25 x skill level|r|n|cff32cd32Cooldown:|r 10s + |cff87ceeb1 x skill level|r|n|cff32cd32Description:|r|nZabuza uses his assassin instinct to terrify his enemy, immobilizing him scared while he fiercely strike him deadly.
+}
+
+STRING 5710
+// Abilities: A05D (TayuyaOgre01Bash), Tip (Tooltip - Normal)
+{
+Bash - [|cffffcc00Level 6|r]
 }
 
 STRING 5711
@@ -69579,6 +69597,12 @@ STRING 11364
 Ultimate Choice
 }
 
+STRING 11365
+// Abilities: A05D (TayuyaOgre01Bash), Tip (Tooltip - Normal)
+{
+Bash - [|cffffcc00Level 7|r]
+}
+
 STRING 11366
 // Abilities: A0WT (Ultimate Choice), Researchtip (Tooltip - Learn)
 {
@@ -70751,6 +70775,12 @@ STRING 11562
 // Abilities: A158 (|cff09520eSnake Skin Change|r), Hotkey (Hotkey - Normal)
 {
 D
+}
+
+STRING 11563
+// Abilities: A05D (TayuyaOgre01Bash), Tip (Tooltip - Normal)
+{
+Bash - [|cffffcc00Level 8|r]
 }
 
 STRING 11564
@@ -74628,6 +74658,12 @@ STRING 12210
 // Abilities: A00C (Tsunoori), Ubertip (Tooltip - Normal - Extended)
 {
 |cff32cd32Target Type:|r Point Target|n|cff32cd32Targets Allowed:|r Enemy|n|cff32cd32Casting Range:|r 900|n|cff32cd32Damage:|r |cff87ceeb(4 x Ninjutsu + 666) x skill level|r|n|cff32cd32Damage Type:|r Normal|n|cff32cd32Chakra Cost:|r 70 + |cff87ceeb100 x skill level|r|n|cff32cd32Cooldown:|r 40s + |cff87ceeb10 s x skill level|n|cff32cd32Description:|r|nTenten uses her heavy-weight chain to immobilize the enemy while she throws several kunais and shurikens at the target, dealing massive damage and stunning them.
+}
+
+STRING 12211
+// Abilities: A05D (TayuyaOgre01Bash), Tip (Tooltip - Normal)
+{
+Bash - [|cffffcc00Level 9|r]
 }
 
 STRING 12212
@@ -82406,6 +82442,12 @@ STRING 13507
 // Abilities: A0MF (TayuyaW), Tip (Tooltip - Normal)
 {
 |cffB0B0B0Puppet Control: Secondary Ability|r [|cffffcc00W|r] - [|cffffcc00Level 9|r]
+}
+
+STRING 13508
+// Abilities: A05D (TayuyaOgre01Bash), Tip (Tooltip - Normal)
+{
+Bash - [|cffffcc00Level 10|r]
 }
 
 STRING 13509
